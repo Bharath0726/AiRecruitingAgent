@@ -147,10 +147,9 @@ This tool is designed to assist recruitment teams but is not a substitute for hu
 
 ---
 
-## **Future Enhancements**
+## **Future Enhancements**  
+- **Integration with Calendar Services**: Seamlessly sync with platforms like Google Calendar and Outlook for better scheduling.  
+- **Gamified Skills Assessment**: Incorporate gamification techniques to evaluate technical and soft skills interactively.  
+- **Integration with Job Portals**: Connect with popular job boards (e.g., LinkedIn, Indeed) for automatic resume collection and job postings.  
+- **Data Analytics Dashboard**: Provide visual insights into the recruitment process, such as time-to-hire, role demand, and candidate demographics.  
 
-- Integration with existing ATS platforms for seamless workflows.
-- Advanced candidate scoring algorithms for deeper analysis.
-- Video interview capabilities.
-- Multi-language support for global recruitment.
-- Integration of technical assessments into the hiring process.
