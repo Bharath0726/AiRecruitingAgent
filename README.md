@@ -70,5 +70,53 @@ For students or job seekers, this tool removes the anxiety of waiting for days t
 git clone https://github.com/Bharath0726/AiRecruitingAgent  
 cd AiRecruitingAgent  
 
+2. Install Dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt  
+3. Configure API Keys
+Add OpenAI API Key, Zoom API credentials, and Email App Password in the Streamlit sidebar.
+4. Run the Application
+bash
+Copy
+Edit
+streamlit run agent3.py  
+System Components
+Resume Analyzer Agent
+ATS Integration: Analyzes resumes using an Applicant Tracking System to calculate a match score based on job-specific skills.
+Skills and Experience Matching: Evaluates resumes for both technical and practical skill alignment.
+Feedback Generation: Provides detailed feedback on matched and missing skills for transparency.
+Communication Agent
+Email Drafting: Sends professional, personalized emails for both selection and rejection outcomes.
+Feedback for Rejection: Delivers constructive advice to help candidates improve their skills.
+Follow-Up Management: Ensures timely communication with candidates, maintaining a positive experience.
+Interview Scheduler Agent
+Zoom Integration: Schedules interviews seamlessly using the Zoom API.
+Calendar and Timezone Handling: Ensures schedules accommodate global candidates by resolving timezone conflicts.
+Reminders and Notifications: Sends reminders to both candidates and recruiters to avoid missed meetings.
+Integrated ATS System
+Transparent Evaluation: Displays ATS scores directly in the interface for easy decision-making.
+Data-Driven Selection: Ensures objective hiring decisions by aligning candidate skills with role requirements.
+Candidate Experience
+User-Friendly Interface: Simple and intuitive platform for resume uploads and interaction.
+Real-Time Feedback: Candidates receive immediate ATS scores and hiring outcomes.
+Transparent Communication: Keeps candidates informed throughout the process, fostering trust and satisfaction.
+Technical Stack
+Framework: Streamlit
+AI Model: OpenAI GPT-4
+Integration: Zoom API, EmailTools
+PDF Processing: PyPDF2
+State Management: Streamlit Session State
+Disclaimer
+This tool is designed to assist recruitment teams but is not a substitute for human judgment. Final hiring decisions should always be reviewed and approved by human recruiters.
+
+Future Enhancements
+Integration with existing ATS platforms for seamless workflows.
+Advanced candidate scoring algorithms for deeper analysis.
+Video interview capabilities.
+Multi-language support for global recruitment.
+Integration of technical assessments into the hiring process.
+
 
 
