@@ -2,6 +2,7 @@
 
 A Streamlit application designed to revolutionize the hiring process by simulating an intelligent, full-service recruitment team. This application incorporates multiple AI agents, each specializing in a critical recruitment role, to automate and enhance various stages of the hiring workflow. From resume screening and technical evaluation to interview scheduling and communication, the system ensures an efficient, transparent, and responsive hiring experience.
 
+Try out the application :[ https://agenthr.streamlit.app/](url)
 ---
 
 ## **Features**
