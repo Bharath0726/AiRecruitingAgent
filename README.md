@@ -7,6 +7,7 @@ Try out the application :[ https://agenthr.streamlit.app/](https://agenthr.strea
 
 ![image](https://github.com/user-attachments/assets/2c754bce-3cc7-42cb-b988-70780eb7d7d7)
 
+![image](https://github.com/user-attachments/assets/fa095169-293c-4d13-929f-26074db77fc6)
 
 
 ![Screenshot 2025-04-28 at 8 30 10 AM](https://github.com/user-attachments/assets/7847c14d-cccb-4f01-ba5a-0fa54dcb90f9)
