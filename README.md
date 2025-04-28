@@ -9,6 +9,11 @@ Try out the application :[ https://agenthr.streamlit.app/](https://agenthr.strea
 
 
 
+![Screenshot 2025-04-28 at 8 30 10 AM](https://github.com/user-attachments/assets/7847c14d-cccb-4f01-ba5a-0fa54dcb90f9)
+
+![Screenshot 2025-04-28 at 8 30 22 AM](https://github.com/user-attachments/assets/e040f334-2f03-483d-9122-51bd25de9b84)
+
+
 ## **Features**
 
 ### **Specialized AI Agents**
