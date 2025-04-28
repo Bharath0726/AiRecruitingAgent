@@ -5,6 +5,10 @@ A Streamlit application designed to revolutionize the hiring process by simulati
 Try out the application :[ https://agenthr.streamlit.app/](https://agenthr.streamlit.app/)
 ---
 
+![image](https://github.com/user-attachments/assets/2c754bce-3cc7-42cb-b988-70780eb7d7d7)
+
+
+
 ## **Features**
 
 ### **Specialized AI Agents**
